@@ -1,6 +1,7 @@
 # vim config
 
-Clone this to your `~` home directory and `ln -s` symlink to `~/.vimrc`
+Clone this to your `~` home directory and `ln -s` symlink to `~/.vimrc`:
+`ln -s ~/.vim/.vimrc ~/.vimrc`
 
 Good to know:
 -------------
