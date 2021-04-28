@@ -10,3 +10,9 @@ set clipboard=unnamedplus
 vnoremap <C-c> "+y
 
 inoremap jj <ESC>
+nnoremap <space> <nop>
+let mapleader = " "
+
+"Go to tab with leader
+nnoremap <leader><leader> :tabnext<cr>
+nnoremap <leader><bs> :tabprevious<cr>
