@@ -8,6 +8,10 @@ Good to know:
 -------------
 * `vimtutor`
 * danielmiessler.com/study/vim/
-* vimgolf.com
-* thoughtbot.com/upcase/onramp-to-vim
-* github.com/thoughtbot/vimulator
+* [VimWays](https://vimways.org/2018/) Advent Calendar
+* [Vim Cheat Sheet](https://vim.rtorr.com/)
+* [Vim Adventures](https://vim-adventures.com/)
+* Drew Neil: Pratical Vim (Book)
+* Drew Neil's [VimCasts](https//vimcasts.org)
+* Derek Wyatt's [Vim Tutorials](https://derekwyatt.org/vim/tutorials)
+* [vimgolf.com](https://vimgolf.com)
