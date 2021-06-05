@@ -7,12 +7,11 @@ set encoding=utf-8
 
 " access to clipboard requires gvim for GTK or X support
 set clipboard=unnamedplus
-vnoremap <C-c> "+y
 
-inoremap jj <ESC>
 nnoremap <space> <nop>
 let mapleader = " "
+inoremap jj <ESC> 
+inoremap jk <ESC>
 
-"Go to tab with leader
-nnoremap <leader><leader> :tabnext<cr>
-nnoremap <leader><bs> :tabprevious<cr>
+vnoremap <leader>y "+y
+vnoremap <leader>p "+p
