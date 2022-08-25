@@ -15,3 +15,5 @@ inoremap jk <ESC>
 
 vnoremap <leader>y "+y
 vnoremap <leader>p "+p
+
+autocmd Filetype elm setlocal expandtab tabstop=4 shiftwidth=4 softtabstop=4
